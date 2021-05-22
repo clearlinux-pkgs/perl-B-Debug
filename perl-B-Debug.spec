@@ -4,7 +4,7 @@
 #
 Name     : perl-B-Debug
 Version  : 1.26
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/R/RU/RURBAN/B-Debug-1.26.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RU/RURBAN/B-Debug-1.26.tar.gz
 Summary  : 'print debug info about ops'
