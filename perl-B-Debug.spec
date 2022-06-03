@@ -4,7 +4,7 @@
 #
 Name     : perl-B-Debug
 Version  : 1.26
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/R/RU/RURBAN/B-Debug-1.26.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RU/RURBAN/B-Debug-1.26.tar.gz
 Summary  : 'print debug info about ops'
@@ -99,4 +99,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/B/Debug.pm
+/usr/lib/perl5/*
